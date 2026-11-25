@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> I cleaned around the shoe 14 times. In my world, anything that doesn't move for a week is load-bearing.
+> My map labels that corner 'furniture' because your cat has slept there 41 days straight. I do not argue with residents.

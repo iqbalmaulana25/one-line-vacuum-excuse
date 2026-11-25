@@ -3,7 +3,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "I cleaned around the shoe 14 times. In my world, anything that doesn't move for a week is load-bearing.";
+  "My map labels that corner 'furniture' because your cat has slept there 41 days straight. I do not argue with residents.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", line + "\n", "utf8");
